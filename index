@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>COVID-19</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+        <div class="header">
+            <div class="header-left">
+                <img class="logo" src="https://cdn.discordapp.com/attachments/722584731102740572/723073813230649405/image0.png">
+            </div>
+            <div class="header-right">
+                <a href="#" class="login">Log in</a>
+            </div>
+            <div class="header-logo">COVID 19</div>
+            <div class="header-list">
+                <ul>
+                    <li><a href="#">Home</a>
+                    </li>
+                    <li><a href="#">About</a>
+                    </li>
+                    <li><a href="#">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="top-wrapper">
+        <div class="container">
+        </div>
+    </div>
+    <div class="statistic-wrapper">
+      <div class="container">
+        <div class="heading">
+          <h1>UPDATE DATA COVID-19</h1>
+          <h3>Virus Corona atau severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) adalah virus yang menyerang sistem pernapasan.</h3> 
+		  <h3>Penyakit karena infeksi virus ini disebut COVID-19. Virus Corona bisa menyebabkan gangguan ringan pada sistem pernapasan,</h3> 
+		  <h3>infeksi paru-paru yang berat, hingga kematian.</h3> 
+        </div>
+        <div class="statistics">
+          <div class="statistic">
+            <div class="statistic-icon">
+              <a href="#">AMERICAS</a>
+              <img src="https://prog-8.com/images/html/advanced/html.png">
+              </div>
+             <p class="text-contents">Update Data COVID-19 di Amerika. </p>
+          </div>
+          <div class="statistic">
+            <div class="statistic-icon">
+              <a href="#">Europe</a>
+              <img src="https://prog-8.com/images/html/advanced/jQuery.png">
+              </div>
+            <p class="text-contents">Update Data COVID-19 di Eropa.</p>
+          </div>
+          <div class="statistic">
+            <div class="statistic-icon">
+              <a href="#">Eastern Mediterranean</a>
+              <img src="https://prog-8.com/images/html/advanced/ruby.png">
+            </div>
+            <p class="text-contents">Update Data COVID-19 di Mediterania Timur.</p>
+          </div>
+          <div class="statistic">
+            <div class="statistic-icon">
+              <a href="#">South East Asia</a>
+              <img src="https://prog-8.com/images/html/advanced/php.png">
+              </div>
+            <p class="text-contents">Update Data COVID-19 di Asia Tenggara.</p>
+          </div>
+          <div class="statistic">
+            <div class="statistic-icon">
+                <a href="#">Africa</a>
+              <img src="https://prog-8.com/images/html/advanced/html.png">
+              </div>
+            <p class="text-contents">Update Data COVID-19 di Afrika.</p>
+          </div>
+          <div class="statistic">
+            <div class="statistic-icon">
+              <a href="#">Western Pacific</a>
+              <img src="https://prog-8.com/images/html/advanced/jQuery.png">
+              </div>
+            <p class="text-contents">Update Data COVID-19 di Lingkar Pasifik.</p>
+          </div>
+          <div class="clear"></div>
+        </div>
+      </div>
+    </div>
+    <div class="message-wrapper">
+      <div class="container">
+        <div class="heading">
+          <h2>Lindungi Diri dan Keluarga dari COVID-19</h2>
+        </div>
+      </div>
+    </div>
+        <div class="footer">
+        <div class="footer-logo">copyright @ Kelompok D17</div>
+        <span class="btn message">Fahmi Reza</span>
+        <span class="btn message">Farras Desyane</span>
+        <span class="btn message">Firdaus Gymnastiar</span>
+        <span class="btn message">Faisal Amin</span>
+        <span class="btn message">Glutha Indra</span>
+        </div>
+  </body>
+</html>
